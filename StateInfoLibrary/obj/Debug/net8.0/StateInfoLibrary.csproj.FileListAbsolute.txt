@@ -1,0 +1,11 @@
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\bin\Debug\net8.0\StateInfoLibrary.deps.json
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\bin\Debug\net8.0\StateInfoLibrary.dll
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\bin\Debug\net8.0\StateInfoLibrary.pdb
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\obj\Debug\net8.0\StateInfoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\obj\Debug\net8.0\StateInfoLibrary.AssemblyInfoInputs.cache
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\obj\Debug\net8.0\StateInfoLibrary.AssemblyInfo.cs
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\obj\Debug\net8.0\StateInfoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\obj\Debug\net8.0\StateInfoLibrary.dll
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\obj\Debug\net8.0\refint\StateInfoLibrary.dll
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\obj\Debug\net8.0\StateInfoLibrary.pdb
+C:\Users\Danielle\Desktop\Adv C# Projects\StateInfoLibrary\obj\Debug\net8.0\ref\StateInfoLibrary.dll
