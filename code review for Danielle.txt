@@ -1,0 +1,22 @@
+Code review for Danielle:
+Anna Stefanacci
+
+Readability and Documentation:
+
+- Your use of comments was great, very easy to read. I also liked how you organized it.
+
+Repetitive Code and Dead Code:
+
+- There was repetitiveness, which could have been avoided by using an object-oriented approach such as a class. 
+
+Software Defects and Testing:
+
+- As this is not a "runable" program. I was not able to fully test it, but I found no errors. 
+
+Appropriateness of Framework and Code Usage:
+
+- This program is what was asked of the assignment, and I liked how simple it was, other than the potential of using a class instead of the constructors. 
+
+Constructive Feedback:
+
+- I've been avoiding doing a code review for you, as you always do wonderful. Your code was significantly different than mine, so I liked seeing the way you did it. 
